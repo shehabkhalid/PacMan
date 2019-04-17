@@ -1,0 +1,47 @@
+﻿  ConsoleApplication40.cpp
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(383): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(384): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(390): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(391): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(418): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(420): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(424): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(425): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(452): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(453): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(458): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(459): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(492): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(493): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(497): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(498): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(527): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(529): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(533): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(534): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(560): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(561): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(566): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(567): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(875): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(883): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(883): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(919): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(954): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(959): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(1457): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(1458): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(1459): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(1471): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(1472): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(1478): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(1479): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(1485): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(1491): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(1506): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(1769): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(1848): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(354): warning C4715: 'next': not all control paths return a value
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(572): warning C4715: 'start': not all control paths return a value
+c:\users\shehab\source\repos\consoleapplication40\consoleapplication40\consoleapplication40.cpp(1890): warning C4715: 'Maindecleration': not all control paths return a value
+  ConsoleApplication40.vcxproj -> C:\Users\shehab\source\repos\ConsoleApplication40\Debug\ConsoleApplication40.exe

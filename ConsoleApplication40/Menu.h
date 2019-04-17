@@ -1,0 +1,39 @@
+#pragma once
+#include<SFML\Graphics.hpp>
+#include<iostream>
+#include<iterator>
+#include<map>
+#include<set>
+#include<queue>
+#include<string>
+#include<fstream>
+#define max_index 5
+#define max2 14
+using namespace sf;
+using namespace std;
+
+class Menu
+{
+
+public:
+	Menu(float width, float height);
+	Menu();
+
+
+	void draw(RenderWindow &MainMenu);
+	//void update(RenderWindow &Gameplay);
+	void moveup();
+	void movedown();
+	void drawPlayers(RenderWindow &MainMenuxd);
+	void drawdiff(RenderWindow &MainMenuxdd);
+
+private:
+
+	int index;
+	Font font;
+	Text menu[max_index];
+	Text players[max2];
+	Text diff[3];
+};
+
+
